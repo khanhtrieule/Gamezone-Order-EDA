@@ -1,6 +1,6 @@
 # Gamezone Order Analysis - Business Insights Report
 
-**Date:** November __, 2025 - November __, 2025  
+**Date:** November 10, 2025 - December 10, 2025  
 **Analyzed by:** Khanh Le
 
 ---
