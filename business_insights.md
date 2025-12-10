@@ -38,7 +38,7 @@ Standard deviation: **$366.15**
 - High-priced orders (>$500) account for 8.22% of orders but contribute significantly to revenue (~$2.4M)
 - Low-priced orders (<$50) make up 22% of orders but only contribute ~$120k to revenue -> Indicates the **high volume**, but **low revenue** impact
 
-**3. Product Distribution**   
+### **3. Product Distribution**   
 Top 3 products by order count:
 - Nintendo Switch: 10,288 orders - $1.64M  
 - 27in 4K Gaming Monitor: 4,686 orders  $1.95M
@@ -47,28 +47,28 @@ Top 3 products by order count:
 Top 3 products represent 88.7% of order volume and 60.6% of revenue   
 There are a few items have **min_price = 0** (27in Monitor, JBL Headset, Dell Gaming Mouse) -> Checking data needed  
 
-**4. Geographic Distribution**  
+### **4. Geographic Distribution**  
 Orders are distributed mainly in **North America**, **EMEA**, **APAC**, and **LATAM**. The remain 0.19% is missing data   
 Top countries by orders and revenue (Top 5): US (47.1% of orders), GB (8.26%), CA (4.36%)
 
-**5. Marketing Channel Distribution**  
+### **5. Marketing Channel Distribution**  
 - **Direct**: 17,316 orders, average $298/order
 - **Email**: 3,240 orders, average $187/order
 - **Affliate & Social Media**: 714 & 320 orders, average $308/order and $215/order, respectively
 - The volume of Direct and Email is high, Social Media contributes less revenue despite great engagement
 
-**6. Platform Distribution**  
+### **6. Platform Distribution**  
 - **Website**: 19,642 orders, $5.95M, average $303/order
 - **Mobile App**: 2,077 orders, $153k, average $73/order
 - Website is the most preferred platform with ~90% orders, mobile app still shows potential growth despite less users
 
-**7. Account Creation Method**  
+### **7. Account Creation Method**  
  - **Desktop**: 16,331 orders, $4.73M
  - **Mobile**: 4,225 orders, $1.04M
  - **Tablet & TV**: Less impact with <1%
  - Desktop accounts most order count & revenue
 
- **8. Data Quality Issue Identified**   
+### **8. Data Quality Issue Identified**   
  Issue requiring investigation before deeper and final analysis    
  1. **Zero dollar pricing:** 3 products show $0.00 minimum prices - 27in Monitor, JBL Headset, Dell Mouse
  2. **High Direct Attribution:** 79.73% direct traffic suggests possible mislabeled traffic sources 
